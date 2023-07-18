@@ -1,0 +1,24 @@
+@font-face {
+    font-family: myFont;
+    src: url(fonts/sodo-sans-6.ttf);
+}
+@font-face {
+    font-family: myFontLight;
+    src: url(fonts/sodo-sans-11.ttf);
+}
+@font-face {
+    font-family: myFontbold;
+    src: url(fonts/SoDoSans-Bold.ttf);
+}
+@font-face {
+    font-family: myFontSemi;
+    src: url(fonts/SoDoSans-SemiBold.ttf);
+}
+@font-face {
+    font-family: myFontRegular;
+    src: url(fonts/sodo-sans-8.ttf);
+}
+@font-face {
+    font-family: pike;
+    src: url(fonts/pike-regular.otf);
+}
